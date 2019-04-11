@@ -3,4 +3,4 @@
 .env.test
 
 # volumen directory
-.data/db/
+mongodb/
